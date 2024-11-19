@@ -72,4 +72,4 @@ After successful operations, the UI should provide appropriate feedback messages
 
 - Commit all your code changes to your created branch as instructed above.
 
-- After commiting changes, copy the branch name (along with github url) and share the same over the screening mail received on your email.
+- After commiting changes, copy the branch name (along with GitHub URL, and Google Drive URL) and share the same over the screening mail received on your email.
