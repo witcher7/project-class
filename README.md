@@ -1,2 +1,2 @@
 # Pre-screening Assignment
-This repository has pre-screening assignment/problem statement which evaluate candidate's Linux, DevOps, Docker and troubleshooting skills.
+This repository contains a pre-screening assignment/problem statement designed to evaluate a candidate's skills in Linux, DevOps, Docker, and troubleshooting.
