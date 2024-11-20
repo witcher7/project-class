@@ -37,7 +37,7 @@ The application is located in the `assignment/` directory, which contains two ma
 
 > ### Docker Setup:
 
-Each folder contains its respective Dockerfile named appropriately. You will need to make adjustments to ensure everything works seamlessly.
+Each folder contains its respective Dockerfile named appropriately. *You will need to make adjustments/troubleshoot to ensure everything works seamlessly.*
 The backend should work with a PostgreSQL database for full functionality.
 
 - Run PostgreSQL Database:
