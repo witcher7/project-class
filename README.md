@@ -62,7 +62,7 @@ Once all services are running:
 
 > ### User Interface:
 
-The frontend should prompt you for signup and login operations.
+The frontend should prompt you for *signup* and *login* operations. You've to create a user and then login using that credentials to show that the communication between frontend and backend has been made correctly.
 After successful operations, the UI should provide appropriate feedback messages.
 
 
