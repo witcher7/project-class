@@ -11,9 +11,9 @@ This repository contains a pre-screening assignment/problem statement designed t
 
 ### Instructions:
 
-> ### Clone the Repository:
+> ### Fork/Clone the Repository:
 
-- Start by cloning this repository to your local machine.
+- Start by forking or directly cloning this repository to your local machine.
 ```
 git clone <repository-url>
 cd <repository-folder>
