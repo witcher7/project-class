@@ -2,6 +2,11 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from database import get_db_connection
 
+from dotenv import load_dotenv
+
+load_dotenv()  # Load environment variables from .env
+
+
 app = FastAPI()
 
 class User(BaseModel):

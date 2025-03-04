@@ -17,4 +17,5 @@ COPY . .
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080", "--reload"]
 
 # Expose the port that Uvicorn will run on
-EXPOSE 8000
+EXPOSE 8080
+
